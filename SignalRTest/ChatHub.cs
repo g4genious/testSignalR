@@ -25,6 +25,7 @@ namespace SignalRTest
     //    private static ConcurrentDictionary<string, string> ToUsers = new ConcurrentDictionary<string, string>();           // <userName, connectionId>
       //  private string userName = "";
 
+
         //public override Task OnConnected()
         //{
         //    DoConnect();
