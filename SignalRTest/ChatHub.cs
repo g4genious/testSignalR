@@ -20,6 +20,7 @@ namespace SignalRTest
             // Call the broadcastMessage method to update clients.
             Clients.All.addNewMessageToPage(name, message);
         }
+
        // private static ConcurrentDictionary<string, string> FromUsers = new ConcurrentDictionary<string, string>();         // <connectionId, userName>
     //    private static ConcurrentDictionary<string, string> ToUsers = new ConcurrentDictionary<string, string>();           // <userName, connectionId>
       //  private string userName = "";
